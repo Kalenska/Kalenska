@@ -7,34 +7,34 @@ namespace RetailStore
     class Receipt
     {
         //private variables 
-        private int receiptNumber;
-        private string dateOfPurchase;
-        private int customerNumber;
-        private string customerFirstName;
-        private string customerLastName;
-        private string customerAddress;
-        private string customerPhoneNumber;
-        private int itemNumber;
-        private string itemDescription;
-        private decimal unitPrice;
-        private int quantityPurchased;
+        public int receiptNumber;
+        public string dateOfPurchase;
+        public int customerNumber;
+        public string customerFirstName;
+        public string customerLastName;
+        public string customerAddress;
+        public string customerPhoneNumber;
+        public int itemNumber;
+        public string itemDescription;
+        public decimal unitPrice;
+        public int quantityPurchased;
 
         //constructor
         public Receipt(int receiptNum, string purchaseDate, int customerNum, string cFirstName,
             string cLastName, string cAddress, string cPhoneNumber, int itemNum,
             string itemDescr, decimal Price, int quantity)
         {
-            receiptNumber = receiptNum;
-            dateOfPurchase = purchaseDate;
-            customerNumber = customerNum;
-            customerFirstName = cFirstName;
-            customerLastName = cLastName;
-            customerAddress = cAddress;
-            customerPhoneNumber = cPhoneNumber;
-            itemNumber = itemNum;
-            itemDescription = itemDescr;
-            unitPrice = Price;
-            quantityPurchased = quantity;
+            ReceiptNumber = receiptNum;
+            DateOfPurchase = purchaseDate;
+            CustomerNumber = customerNum;
+            CustomerFirstName = cFirstName;
+            CustomerLastName = cLastName;
+            CustomerAddress = cAddress;
+            CustomerPhoneNumber = cPhoneNumber;
+            ItemNumber = itemNum;
+            ItemDescription = itemDescr;
+            UnitPrice = Price;
+            QuantityPurchased = quantity;
         }
 
         //properties 
