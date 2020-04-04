@@ -4,9 +4,9 @@ using System.Text;
 
 namespace RetailStore
 {
-    class Receipt
+    public class Receipt
     {
-        //private variables 
+        //public variables 
         public int receiptNumber;
         public string dateOfPurchase;
         public int customerNumber;

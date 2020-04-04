@@ -1,5 +1,6 @@
+
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using ReceiptTests;
+using RetailStore;
 
 namespace ReceiptTests
 {
