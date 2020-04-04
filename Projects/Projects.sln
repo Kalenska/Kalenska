@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RetailStore", "Proejcts\Ret
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasicJira", "BasicJira\BasicJira.csproj", "{1F46BDC7-BD5E-4953-BE6B-3AF94A3B789E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReceiptTest", "ReceiptTest\ReceiptTest.csproj", "{34DDA8A3-F9D9-4F03-8BD2-43C1C1088E1E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1F46BDC7-BD5E-4953-BE6B-3AF94A3B789E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F46BDC7-BD5E-4953-BE6B-3AF94A3B789E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F46BDC7-BD5E-4953-BE6B-3AF94A3B789E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34DDA8A3-F9D9-4F03-8BD2-43C1C1088E1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34DDA8A3-F9D9-4F03-8BD2-43C1C1088E1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34DDA8A3-F9D9-4F03-8BD2-43C1C1088E1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34DDA8A3-F9D9-4F03-8BD2-43C1C1088E1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

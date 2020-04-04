@@ -9,3 +9,14 @@ C:\Users\TechHuddle\source\repos\Proejcts\Proejcts\obj\Debug\netcoreapp3.1\Retai
 C:\Users\TechHuddle\source\repos\Proejcts\Proejcts\obj\Debug\netcoreapp3.1\RetailStore.AssemblyInfo.cs
 C:\Users\TechHuddle\source\repos\Proejcts\Proejcts\obj\Debug\netcoreapp3.1\RetailStore.dll
 C:\Users\TechHuddle\source\repos\Proejcts\Proejcts\obj\Debug\netcoreapp3.1\RetailStore.pdb
+C:\Users\TechHuddle\Desktop\GitHub_Kalenska\Projects\Proejcts\bin\Debug\netcoreapp3.1\RetailStore.exe
+C:\Users\TechHuddle\Desktop\GitHub_Kalenska\Projects\Proejcts\bin\Debug\netcoreapp3.1\RetailStore.deps.json
+C:\Users\TechHuddle\Desktop\GitHub_Kalenska\Projects\Proejcts\bin\Debug\netcoreapp3.1\RetailStore.runtimeconfig.json
+C:\Users\TechHuddle\Desktop\GitHub_Kalenska\Projects\Proejcts\bin\Debug\netcoreapp3.1\RetailStore.runtimeconfig.dev.json
+C:\Users\TechHuddle\Desktop\GitHub_Kalenska\Projects\Proejcts\bin\Debug\netcoreapp3.1\RetailStore.dll
+C:\Users\TechHuddle\Desktop\GitHub_Kalenska\Projects\Proejcts\bin\Debug\netcoreapp3.1\RetailStore.pdb
+C:\Users\TechHuddle\Desktop\GitHub_Kalenska\Projects\Proejcts\obj\Debug\netcoreapp3.1\RetailStore.csprojAssemblyReference.cache
+C:\Users\TechHuddle\Desktop\GitHub_Kalenska\Projects\Proejcts\obj\Debug\netcoreapp3.1\RetailStore.AssemblyInfoInputs.cache
+C:\Users\TechHuddle\Desktop\GitHub_Kalenska\Projects\Proejcts\obj\Debug\netcoreapp3.1\RetailStore.AssemblyInfo.cs
+C:\Users\TechHuddle\Desktop\GitHub_Kalenska\Projects\Proejcts\obj\Debug\netcoreapp3.1\RetailStore.dll
+C:\Users\TechHuddle\Desktop\GitHub_Kalenska\Projects\Proejcts\obj\Debug\netcoreapp3.1\RetailStore.pdb

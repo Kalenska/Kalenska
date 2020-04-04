@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TechHuddle\\source\\repos\\Proejcts\\Proejcts\\RetailStore.csproj": {}
+    "C:\\Users\\TechHuddle\\Desktop\\GitHub_Kalenska\\Projects\\Proejcts\\RetailStore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TechHuddle\\source\\repos\\Proejcts\\Proejcts\\RetailStore.csproj": {
+    "C:\\Users\\TechHuddle\\Desktop\\GitHub_Kalenska\\Projects\\Proejcts\\RetailStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TechHuddle\\source\\repos\\Proejcts\\Proejcts\\RetailStore.csproj",
+        "projectUniqueName": "C:\\Users\\TechHuddle\\Desktop\\GitHub_Kalenska\\Projects\\Proejcts\\RetailStore.csproj",
         "projectName": "RetailStore",
-        "projectPath": "C:\\Users\\TechHuddle\\source\\repos\\Proejcts\\Proejcts\\RetailStore.csproj",
+        "projectPath": "C:\\Users\\TechHuddle\\Desktop\\GitHub_Kalenska\\Projects\\Proejcts\\RetailStore.csproj",
         "packagesPath": "C:\\Users\\TechHuddle\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TechHuddle\\source\\repos\\Proejcts\\Proejcts\\obj\\",
+        "outputPath": "C:\\Users\\TechHuddle\\Desktop\\GitHub_Kalenska\\Projects\\Proejcts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TechHuddle\\AppData\\Roaming\\NuGet\\NuGet.Config",

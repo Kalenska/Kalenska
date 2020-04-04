@@ -1,0 +1,13 @@
+C:\Users\TechHuddle\Desktop\GitHub_Kalenska\Projects\ReceiptTest\obj\Debug\ReceiptTest.csprojAssemblyReference.cache
+C:\Users\TechHuddle\Desktop\GitHub_Kalenska\Projects\ReceiptTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\TechHuddle\Desktop\GitHub_Kalenska\Projects\ReceiptTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\TechHuddle\Desktop\GitHub_Kalenska\Projects\ReceiptTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\TechHuddle\Desktop\GitHub_Kalenska\Projects\ReceiptTest\bin\Debug\ReceiptTest.dll
+C:\Users\TechHuddle\Desktop\GitHub_Kalenska\Projects\ReceiptTest\bin\Debug\ReceiptTest.pdb
+C:\Users\TechHuddle\Desktop\GitHub_Kalenska\Projects\ReceiptTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\TechHuddle\Desktop\GitHub_Kalenska\Projects\ReceiptTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\TechHuddle\Desktop\GitHub_Kalenska\Projects\ReceiptTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\TechHuddle\Desktop\GitHub_Kalenska\Projects\ReceiptTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\TechHuddle\Desktop\GitHub_Kalenska\Projects\ReceiptTest\obj\Debug\ReceiptTest.csproj.CopyComplete
+C:\Users\TechHuddle\Desktop\GitHub_Kalenska\Projects\ReceiptTest\obj\Debug\ReceiptTest.dll
+C:\Users\TechHuddle\Desktop\GitHub_Kalenska\Projects\ReceiptTest\obj\Debug\ReceiptTest.pdb

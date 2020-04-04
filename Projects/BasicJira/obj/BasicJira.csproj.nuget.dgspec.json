@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TechHuddle\\source\\repos\\Proejcts\\BasicJira\\BasicJira.csproj": {}
+    "C:\\Users\\TechHuddle\\Desktop\\GitHub_Kalenska\\Projects\\BasicJira\\BasicJira.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TechHuddle\\source\\repos\\Proejcts\\BasicJira\\BasicJira.csproj": {
+    "C:\\Users\\TechHuddle\\Desktop\\GitHub_Kalenska\\Projects\\BasicJira\\BasicJira.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TechHuddle\\source\\repos\\Proejcts\\BasicJira\\BasicJira.csproj",
+        "projectUniqueName": "C:\\Users\\TechHuddle\\Desktop\\GitHub_Kalenska\\Projects\\BasicJira\\BasicJira.csproj",
         "projectName": "BasicJira",
-        "projectPath": "C:\\Users\\TechHuddle\\source\\repos\\Proejcts\\BasicJira\\BasicJira.csproj",
+        "projectPath": "C:\\Users\\TechHuddle\\Desktop\\GitHub_Kalenska\\Projects\\BasicJira\\BasicJira.csproj",
         "packagesPath": "C:\\Users\\TechHuddle\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TechHuddle\\source\\repos\\Proejcts\\BasicJira\\obj\\",
+        "outputPath": "C:\\Users\\TechHuddle\\Desktop\\GitHub_Kalenska\\Projects\\BasicJira\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TechHuddle\\AppData\\Roaming\\NuGet\\NuGet.Config",
