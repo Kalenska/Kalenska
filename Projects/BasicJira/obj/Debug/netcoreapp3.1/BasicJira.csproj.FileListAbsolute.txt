@@ -1,0 +1,11 @@
+C:\Users\TechHuddle\source\repos\Proejcts\BasicJira\bin\Debug\netcoreapp3.1\BasicJira.exe
+C:\Users\TechHuddle\source\repos\Proejcts\BasicJira\bin\Debug\netcoreapp3.1\BasicJira.deps.json
+C:\Users\TechHuddle\source\repos\Proejcts\BasicJira\bin\Debug\netcoreapp3.1\BasicJira.runtimeconfig.json
+C:\Users\TechHuddle\source\repos\Proejcts\BasicJira\bin\Debug\netcoreapp3.1\BasicJira.runtimeconfig.dev.json
+C:\Users\TechHuddle\source\repos\Proejcts\BasicJira\bin\Debug\netcoreapp3.1\BasicJira.dll
+C:\Users\TechHuddle\source\repos\Proejcts\BasicJira\bin\Debug\netcoreapp3.1\BasicJira.pdb
+C:\Users\TechHuddle\source\repos\Proejcts\BasicJira\obj\Debug\netcoreapp3.1\BasicJira.csprojAssemblyReference.cache
+C:\Users\TechHuddle\source\repos\Proejcts\BasicJira\obj\Debug\netcoreapp3.1\BasicJira.AssemblyInfoInputs.cache
+C:\Users\TechHuddle\source\repos\Proejcts\BasicJira\obj\Debug\netcoreapp3.1\BasicJira.AssemblyInfo.cs
+C:\Users\TechHuddle\source\repos\Proejcts\BasicJira\obj\Debug\netcoreapp3.1\BasicJira.dll
+C:\Users\TechHuddle\source\repos\Proejcts\BasicJira\obj\Debug\netcoreapp3.1\BasicJira.pdb
