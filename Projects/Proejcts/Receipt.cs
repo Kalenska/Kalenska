@@ -31,7 +31,7 @@ namespace RetailStore
             CustomerLastName = cLastName;
             CustomerAddress = cAddress;
             CustomerPhoneNumber = cPhoneNumber;
-            ItemNumber = itemNum;
+            ItemNumbеr = itemNum;
             ItemDescription = itemDescr;
             UnitPrice = Price;
             QuantityPurchased = quantity;
@@ -50,6 +50,10 @@ namespace RetailStore
                 if (value > 0)
                 {
                     receiptNumber = value;
+                }
+                else
+                {
+                    throw new InvalidOperationException("Value cannot be less or equal to 0");
                 }
             }
         }
@@ -79,6 +83,10 @@ namespace RetailStore
                 {
                     customerNumber = value;
                 }
+                else
+                {
+                    throw new InvalidOperationException("Value cannot be less than 0 and greater than 9999");
+                }
             }
         }
 
@@ -90,7 +98,7 @@ namespace RetailStore
 
         public string CustomerPhoneNumber { get; set; }
 
-        public int ItemNumber
+        public int ItemNumbеr
         {
             get
             {
@@ -103,23 +111,28 @@ namespace RetailStore
                 {
                     itemNumber = value;
                 }
+                else
+                {
+                    throw new InvalidOperationException("Value cannot be less than 0 and greater than 9999");
+                }
             }
         }
 
         public string ItemDescription { get; set; }
+   
 
         public decimal UnitPrice
         {
             get
             {
-                return unitPrice;
+                return UnitPrice;
             }
             set
             {
                 //check that unit price is greater than 0 and less than 9999
                 if (value > 0 && value < 9999)
                 {
-                    unitPrice = value;
+                    UnitPrice = value;
                 }
             }
         }
@@ -137,8 +150,13 @@ namespace RetailStore
                 {
                     quantityPurchased = value;
                 }
+            else
+            {
+                throw new InvalidOperationException("Value cannot be less than 0");
             }
         }
+    
+        
 
         //Methods
 
